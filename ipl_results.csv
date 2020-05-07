@@ -1,0 +1,565 @@
+Team 1,Team 2,Winner,Margin,Ground,Match Date,Scorecard
+RCB,KKR,KKR,140 runs,Bengaluru,"Apr 18, 2008",T20
+KXIP,CSK,CSK,33 runs,Mohali,"Apr 19, 2008",T20
+DC,RR,DC,9 wickets,Delhi,"Apr 19, 2008",T20
+MI,RCB,RCB,5 wickets,Mumbai,"Apr 20, 2008",T20
+RR,KXIP,RR,6 wickets,Jaipur,"Apr 21, 2008",T20
+CSK,MI,CSK,6 runs,Chennai,"Apr 23, 2008",T20
+KXIP,MI,KXIP,66 runs,Mohali,"Apr 25, 2008",T20
+CSK,KKR,CSK,9 wickets,Chennai,"Apr 26, 2008",T20
+RCB,RR,RR,7 wickets,Bengaluru,"Apr 26, 2008",T20
+KXIP,DC,KXIP,4 wickets,Mohali,"Apr 27, 2008",T20
+RCB,CSK,CSK,13 runs,Bengaluru,"Apr 28, 2008",T20
+KKR,MI,MI,7 wickets,Kolkata,"Apr 29, 2008",T20
+DC,RCB,DC,10 runs,Delhi,"Apr 30, 2008",T20
+RR,KKR,RR,45 runs,Jaipur,"May 1, 2008",T20
+CSK,DC,DC,8 wickets,Chennai,"May 2, 2008",T20
+KXIP,KKR,KXIP,9 runs,Mohali,"May 3, 2008",T20
+MI,DC,MI,29 runs,Mumbai,"May 4, 2008",T20
+RR,CSK,RR,8 wickets,Jaipur,"May 4, 2008",T20
+RCB,KXIP,KXIP,6 wickets,Bengaluru,"May 5, 2008",T20
+MI,RR,MI,7 wickets,Mumbai,"May 7, 2008",T20
+DC,CSK,CSK,4 wickets,Delhi,"May 8, 2008",T20
+KKR,RCB,KKR,5 runs,Kolkata,"May 8, 2008",T20
+CSK,KXIP,CSK,18 runs,Chennai,"May 10, 2008",T20
+RR,DC,RR,3 wickets,Jaipur,"May 11, 2008",T20
+KXIP,RCB,KXIP,9 wickets,Mohali,"May 12, 2008",T20
+KKR,DC,KKR,23 runs,Kolkata,"May 13, 2008",T20
+MI,CSK,MI,9 wickets,Mumbai,"May 14, 2008",T20
+MI,KKR,MI,8 wickets,Mumbai,"May 16, 2008",T20
+DC,KXIP,KXIP,6 runs,Delhi,"May 17, 2008",T20
+RR,RCB,RR,65 runs,Jaipur,"May 17, 2008",T20
+KKR,CSK,CSK,3 runs,Kolkata,"May 18, 2008",T20
+RCB,DC,DC,5 wickets,Bengaluru,"May 19, 2008",T20
+KKR,RR,RR,6 wickets,Kolkata,"May 20, 2008",T20
+MI,KXIP,KXIP,1 run,Mumbai,"May 21, 2008",T20
+CSK,RCB,RCB,14 runs,Chennai,"May 21, 2008",T20
+DC,MI,DC,5 wickets,Delhi,"May 24, 2008",T20
+CSK,RR,RR,10 runs,Chennai,"May 24, 2008",T20
+KKR,KXIP,KKR,3 wickets,Kolkata,"May 25, 2008",T20
+RR,MI,RR,5 wickets,Jaipur,"May 26, 2008",T20
+KXIP,RR,KXIP,41 runs,Mohali,"May 28, 2008",T20
+RCB,MI,MI,9 wickets,Bengaluru,"May 28, 2008",T20
+DC,RR,RR,105 runs,Mumbai,"May 30, 2008",T20
+CSK,KXIP,CSK,9 wickets,Mumbai,"May 31, 2008",T20
+CSK,RR,RR,3 wickets,Mumbai,"Jun 1, 2008",T20
+CSK,MI,MI,19 runs,Cape Town,"Apr 18, 2009",T20
+RCB,RR,RCB,75 runs,Cape Town,"Apr 18, 2009",T20
+DC,KXIP,DC,10 wickets,Cape Town,"Apr 19, 2009",T20
+RCB,CSK,CSK,92 runs,Port Elizabeth,"Apr 20, 2009",T20
+KXIP,KKR,KKR,11 runs,Durban,"Apr 21, 2009",T20
+CSK,DC,DC,9 runs,Durban,"Apr 23, 2009",T20
+RCB,KXIP,KXIP,7 wickets,Durban,"Apr 24, 2009",T20
+RCB,DC,DC,6 wickets,Port Elizabeth,"Apr 26, 2009",T20
+KXIP,RR,KXIP,27 runs,Cape Town,"Apr 26, 2009",T20
+KKR,MI,MI,92 runs,Port Elizabeth,"Apr 27, 2009",T20
+DC,RR,RR,5 wickets,Centurion,"Apr 28, 2009",T20
+KXIP,MI,KXIP,3 runs,Durban,"Apr 29, 2009",T20
+RCB,KKR,RCB,5 wickets,Durban,"Apr 29, 2009",T20
+CSK,RR,CSK,38 runs,Centurion,"Apr 30, 2009",T20
+KKR,MI,MI,9 runs,East London,"May 1, 2009",T20
+RCB,KXIP,RCB,8 runs,Durban,"May 1, 2009",T20
+CSK,DC,CSK,18 runs,Johannesburg,"May 2, 2009",T20
+KXIP,KKR,KXIP,6 wickets,Port Elizabeth,"May 3, 2009",T20
+RCB,MI,RCB,9 wickets,Johannesburg,"May 3, 2009",T20
+DC,KKR,DC,9 wickets,Durban,"May 5, 2009",T20
+KXIP,RR,RR,78 runs,Durban,"May 5, 2009",T20
+CSK,KXIP,CSK,12 runs,Centurion,"May 7, 2009",T20
+RCB,RR,RR,7 wickets,Centurion,"May 7, 2009",T20
+DC,MI,DC,7 wickets,East London,"May 8, 2009",T20
+CSK,RR,CSK,7 wickets,Kimberley,"May 9, 2009",T20
+DC,KKR,DC,7 wickets,Johannesburg,"May 10, 2009",T20
+RCB,MI,MI,16 runs,Port Elizabeth,"May 10, 2009",T20
+KXIP,MI,MI,8 wickets,Centurion,"May 12, 2009",T20
+RCB,KKR,RCB,6 wickets,Centurion,"May 12, 2009",T20
+RCB,CSK,RCB,2 wickets,Durban,"May 14, 2009",T20
+MI,RR,RR,2 runs,Durban,"May 14, 2009",T20
+DC,KXIP,KXIP,6 wickets,Bloemfontein,"May 15, 2009",T20
+CSK,MI,CSK,7 wickets,Port Elizabeth,"May 16, 2009",T20
+DC,RR,DC,14 runs,Bloemfontein,"May 17, 2009",T20
+CSK,KKR,KKR,7 wickets,Centurion,"May 18, 2009",T20
+RCB,DC,RCB,7 wickets,Johannesburg,"May 19, 2009",T20
+CSK,KXIP,CSK,24 runs,Durban,"May 20, 2009",T20
+KKR,RR,KKR,4 wickets,Durban,"May 20, 2009",T20
+DC,MI,DC,4 wickets,Centurion,"May 21, 2009",T20
+RCB,CSK,RCB,6 wickets,Johannesburg,"May 23, 2009",T20
+KXIP,DC,DC,5 wickets,Mohali,"Mar 13, 2010",T20
+MI,RR,MI,4 runs,Mumbai (BS),"Mar 13, 2010",T20
+KKR,RCB,KKR,7 wickets,Kolkata,"Mar 14, 2010",T20
+RR,DC,DC,6 wickets,Ahmedabad,"Mar 15, 2010",T20
+KKR,CSK,CSK,55 runs,Kolkata,"Mar 16, 2010",T20
+RCB,KXIP,RCB,8 wickets,Bengaluru,"Mar 16, 2010",T20
+DC,MI,MI,98 runs,Delhi,"Mar 17, 2010",T20
+RCB,RR,RCB,10 wickets,Bengaluru,"Mar 18, 2010",T20
+DC,CSK,CSK,5 wickets,Delhi,"Mar 19, 2010",T20
+MI,RCB,RCB,7 wickets,Mumbai (BS),"Mar 20, 2010",T20
+RR,KKR,RR,34 runs,Ahmedabad,"Mar 20, 2010",T20
+MI,KKR,MI,7 wickets,Mumbai (BS),"Mar 22, 2010",T20
+RCB,CSK,RCB,36 runs,Bengaluru,"Mar 23, 2010",T20
+KXIP,RR,RR,31 runs,Mohali,"Mar 24, 2010",T20
+RCB,DC,DC,17 runs,Bengaluru,"Mar 25, 2010",T20
+MI,CSK,MI,5 wickets,Mumbai (BS),"Mar 25, 2010",T20
+KXIP,KKR,KKR,39 runs,Mohali,"Mar 27, 2010",T20
+RR,CSK,RR,17 runs,Ahmedabad,"Mar 28, 2010",T20
+DC,KKR,DC,40 runs,Delhi,"Mar 29, 2010",T20
+MI,KXIP,MI,4 wickets,Mumbai (BS),"Mar 30, 2010",T20
+CSK,RCB,CSK,5 wickets,Chennai,"Mar 31, 2010",T20
+DC,RR,DC,67 runs,Delhi,"Mar 31, 2010",T20
+KXIP,RCB,RCB,6 wickets,Mohali,"Apr 2, 2010",T20
+CSK,RR,CSK,23 runs,Chennai,"Apr 3, 2010",T20
+DC,RCB,DC,37 runs,Delhi,"Apr 4, 2010",T20
+KKR,KXIP,KXIP,8 wickets,Kolkata,"Apr 4, 2010",T20
+CSK,MI,CSK,24 runs,Chennai,"Apr 6, 2010",T20
+KKR,DC,KKR,14 runs,Kolkata,"Apr 7, 2010",T20
+RR,KXIP,RR,9 wickets,Jaipur,"Apr 7, 2010",T20
+KXIP,MI,KXIP,6 wickets,Mohali,"Apr 9, 2010",T20
+RCB,KKR,RCB,7 wickets,Bengaluru,"Apr 10, 2010",T20
+DC,KXIP,KXIP,7 wickets,Delhi,"Apr 11, 2010",T20
+RR,MI,MI,37 runs,Jaipur,"Apr 11, 2010",T20
+CSK,KKR,CSK,9 wickets,Chennai,"Apr 13, 2010",T20
+MI,DC,MI,39 runs,Mumbai (BS),"Apr 13, 2010",T20
+RR,RCB,RCB,5 wickets,Jaipur,"Apr 14, 2010",T20
+CSK,DC,DC,6 wickets,Chennai,"Apr 15, 2010",T20
+KKR,RR,KKR,8 wickets,Kolkata,"Apr 17, 2010",T20
+RCB,MI,MI,57 runs,Bengaluru,"Apr 17, 2010",T20
+KXIP,CSK,CSK,6 wickets,Dharamsala,"Apr 18, 2010",T20
+KKR,MI,KKR,9 wickets,Kolkata,"Apr 19, 2010",T20
+RCB,MI,MI,35 runs,Mumbai,"Apr 21, 2010",T20
+CSK,MI,CSK,22 runs,Mumbai,"Apr 25, 2010",T20
+CSK,KKR,CSK,2 runs,Chennai,"Apr 8, 2011",T20
+DC,MI,MI,8 wickets,Delhi,"Apr 10, 2011",T20
+RCB,MI,MI,9 wickets,Bengaluru,"Apr 12, 2011",T20
+RR,DC,RR,6 wickets,Jaipur,"Apr 12, 2011",T20
+KXIP,CSK,KXIP,6 wickets,Mohali,"Apr 13, 2011",T20
+RR,KKR,KKR,9 wickets,Jaipur,"Apr 15, 2011",T20
+CSK,RCB,CSK,21 runs,Chennai,"Apr 16, 2011",T20
+KKR,RR,KKR,8 wickets,Kolkata,"Apr 17, 2011",T20
+KXIP,RR,KXIP,48 runs,Mohali,"Apr 21, 2011",T20
+MI,CSK,MI,8 runs,Mumbai,"Apr 22, 2011",T20
+KKR,RCB,RCB,9 wickets,Kolkata,"Apr 22, 2011",T20
+DC,KXIP,DC,29 runs,Delhi,"Apr 23, 2011",T20
+DC,RCB,RCB,3 wickets,Delhi,"Apr 26, 2011",T20
+DC,KKR,KKR,17 runs,Delhi,"Apr 28, 2011",T20
+RR,MI,RR,7 wickets,Jaipur,"Apr 29, 2011",T20
+KKR,KXIP,KKR,8 wickets,Kolkata,"Apr 30, 2011",T20
+MI,KXIP,MI,23 runs,Mumbai,"May 2, 2011",T20
+CSK,RR,CSK,8 wickets,Chennai,"May 4, 2011",T20
+RCB,KXIP,RCB,85 runs,Bengaluru,"May 6, 2011",T20
+KKR,CSK,KKR,10 runs,Kolkata,"May 7, 2011",T20
+MI,DC,MI,32 runs,Mumbai,"May 7, 2011",T20
+RR,CSK,CSK,63 runs,Jaipur,"May 9, 2011",T20
+KXIP,MI,KXIP,76 runs,Mohali,"May 10, 2011",T20
+RR,RCB,RCB,9 wickets,Jaipur,"May 11, 2011",T20
+CSK,DC,CSK,18 runs,Chennai,"May 12, 2011",T20
+RCB,KKR,RCB,4 wickets,Bengaluru,"May 14, 2011",T20
+KXIP,DC,KXIP,29 runs,Dharamsala,"May 15, 2011",T20
+KXIP,RCB,KXIP,111 runs,Dharamsala,"May 17, 2011",T20
+MI,RR,RR,10 wickets,Mumbai,"May 20, 2011",T20
+KKR,MI,MI,5 wickets,Kolkata,"May 22, 2011",T20
+RCB,CSK,RCB,8 wickets,Bengaluru,"May 22, 2011",T20
+RCB,CSK,CSK,6 wickets,Mumbai,"May 24, 2011",T20
+KKR,MI,MI,4 wickets,Mumbai,"May 25, 2011",T20
+RCB,MI,RCB,43 runs,Chennai,"May 27, 2011",T20
+CSK,RCB,CSK,58 runs,Chennai,"May 28, 2011",T20
+CSK,MI,MI,8 wickets,Chennai,"Apr 4, 2012",T20
+KKR,DC,DC,8 wickets,Kolkata,"Apr 5, 2012",T20
+RR,KXIP,RR,31 runs,Jaipur,"Apr 6, 2012",T20
+RCB,DC,RCB,20 runs,Bengaluru,"Apr 7, 2012",T20
+RR,KKR,RR,22 runs,Jaipur,"Apr 8, 2012",T20
+DC,CSK,DC,8 wickets,Delhi,"Apr 10, 2012",T20
+RCB,KKR,KKR,42 runs,Bengaluru,"Apr 10, 2012",T20
+MI,RR,MI,27 runs,Mumbai,"Apr 11, 2012",T20
+CSK,RCB,CSK,5 wickets,Chennai,"Apr 12, 2012",T20
+KKR,RR,KKR,5 wickets,Kolkata,"Apr 13, 2012",T20
+KKR,KXIP,KXIP,2 runs,Kolkata,"Apr 15, 2012",T20
+RCB,RR,RR,59 runs,Bengaluru,"Apr 15, 2012",T20
+MI,DC,DC,7 wickets,Mumbai,"Apr 16, 2012",T20
+KXIP,KKR,KKR,8 wickets,Mohali,"Apr 18, 2012",T20
+KXIP,RCB,RCB,5 wickets,Mohali,"Apr 20, 2012",T20
+CSK,RR,CSK,7 wickets,Chennai,"Apr 21, 2012",T20
+MI,KXIP,KXIP,6 wickets,Mumbai,"Apr 22, 2012",T20
+RR,RCB,RCB,46 runs,Jaipur,"Apr 23, 2012",T20
+KXIP,MI,MI,4 wickets,Mohali,"Apr 25, 2012",T20
+RCB,CSK,no result,,Bengaluru,"Apr 25, 2012",T20
+DC,MI,DC,37 runs,Delhi,"Apr 27, 2012",T20
+KKR,RCB,KKR,47 runs,Kolkata,"Apr 28, 2012",T20
+CSK,KXIP,KXIP,7 runs,Chennai,"Apr 28, 2012",T20
+DC,RR,DC,1 run,Delhi,"Apr 29, 2012",T20
+CSK,KKR,KKR,5 wickets,Chennai,"Apr 30, 2012",T20
+RR,DC,DC,6 wickets,Jaipur,"May 1, 2012",T20
+RCB,KXIP,KXIP,4 wickets,Bengaluru,"May 2, 2012",T20
+KXIP,RR,RR,43 runs,Mohali,"May 5, 2012",T20
+MI,CSK,MI,2 wickets,Mumbai,"May 6, 2012",T20
+DC,KKR,KKR,6 wickets,Delhi,"May 7, 2012",T20
+MI,RCB,RCB,9 wickets,Mumbai,"May 9, 2012",T20
+RR,CSK,CSK,4 wickets,Jaipur,"May 10, 2012",T20
+CSK,DC,CSK,9 wickets,Chennai,"May 12, 2012",T20
+KKR,MI,MI,27 runs,Kolkata,"May 12, 2012",T20
+KKR,CSK,CSK,5 wickets,Kolkata,"May 14, 2012",T20
+RCB,MI,MI,5 wickets,Bengaluru,"May 14, 2012",T20
+DC,KXIP,DC,5 wickets,Delhi,"May 15, 2012",T20
+MI,KKR,KKR,32 runs,Mumbai,"May 16, 2012",T20
+KXIP,CSK,KXIP,6 wickets,Dharamsala,"May 17, 2012",T20
+DC,RCB,RCB,21 runs,Delhi,"May 17, 2012",T20
+KXIP,DC,DC,6 wickets,Dharamsala,"May 19, 2012",T20
+RR,MI,MI,10 wickets,Jaipur,"May 20, 2012",T20
+DC,KKR,KKR,18 runs,Pune,"May 22, 2012",T20
+CSK,MI,CSK,38 runs,Bengaluru,"May 23, 2012",T20
+DC,CSK,CSK,86 runs,Chennai,"May 25, 2012",T20
+KKR,CSK,KKR,5 wickets,Chennai,"May 27, 2012",T20
+KKR,DC,KKR,6 wickets,Kolkata,"Apr 3, 2013",T20
+RCB,MI,RCB,2 runs,Bengaluru,"Apr 4, 2013",T20
+CSK,MI,MI,9 runs,Chennai,"Apr 6, 2013",T20
+DC,RR,RR,5 runs,Delhi,"Apr 6, 2013",T20
+RR,KKR,RR,19 runs,Jaipur,"Apr 8, 2013",T20
+MI,DC,MI,44 runs,Mumbai,"Apr 9, 2013",T20
+RCB,SRH,RCB,7 wickets,Bengaluru,"Apr 9, 2013",T20
+KXIP,CSK,CSK,10 wickets,Mohali,"Apr 10, 2013",T20
+RCB,KKR,RCB,8 wickets,Bengaluru,"Apr 11, 2013",T20
+DC,SRH,SRH,3 wickets,Delhi,"Apr 12, 2013",T20
+CSK,RCB,CSK,4 wickets,Chennai,"Apr 13, 2013",T20
+KKR,SRH,KKR,48 runs,Kolkata,"Apr 14, 2013",T20
+RR,KXIP,RR,6 wickets,Jaipur,"Apr 14, 2013",T20
+KXIP,KKR,KXIP,4 runs,Mohali,"Apr 16, 2013",T20
+RR,MI,RR,87 runs,Jaipur,"Apr 17, 2013",T20
+DC,CSK,CSK,86 runs,Delhi,"Apr 18, 2013",T20
+SRH,KXIP,SRH,5 wickets,Hyderabad (Deccan),"Apr 19, 2013",T20
+KKR,CSK,CSK,4 wickets,Kolkata,"Apr 20, 2013",T20
+RCB,RR,RCB,7 wickets,Bengaluru,"Apr 20, 2013",T20
+DC,MI,DC,9 wickets,Delhi,"Apr 21, 2013",T20
+CSK,RR,CSK,5 wickets,Chennai,"Apr 22, 2013",T20
+DC,KXIP,KXIP,5 wickets,Delhi,"Apr 23, 2013",T20
+KKR,MI,MI,5 wickets,Kolkata,"Apr 24, 2013",T20
+CSK,SRH,CSK,5 wickets,Chennai,"Apr 25, 2013",T20
+KKR,KXIP,KKR,6 wickets,Kolkata,"Apr 26, 2013",T20
+MI,RCB,MI,58 runs,Mumbai,"Apr 27, 2013",T20
+RR,SRH,RR,8 wickets,Jaipur,"Apr 27, 2013",T20
+CSK,KKR,CSK,14 runs,Chennai,"Apr 28, 2013",T20
+MI,KXIP,MI,4 runs,Mumbai,"Apr 29, 2013",T20
+RR,RCB,RR,4 wickets,Jaipur,"Apr 29, 2013",T20
+DC,KKR,DC,7 wickets,Raipur,"May 1, 2013",T20
+SRH,MI,SRH,7 wickets,Hyderabad (Deccan),"May 1, 2013",T20
+CSK,KXIP,CSK,15 runs,Chennai,"May 2, 2013",T20
+KKR,RR,KKR,8 wickets,Kolkata,"May 3, 2013",T20
+SRH,DC,SRH,6 wickets,Hyderabad (Deccan),"May 4, 2013",T20
+MI,CSK,MI,60 runs,Mumbai,"May 5, 2013",T20
+KXIP,RCB,KXIP,6 wickets,Mohali,"May 6, 2013",T20
+MI,KKR,MI,65 runs,Mumbai,"May 7, 2013",T20
+RR,DC,RR,9 wickets,Jaipur,"May 7, 2013",T20
+SRH,CSK,CSK,77 runs,Hyderabad (Deccan),"May 8, 2013",T20
+KXIP,RR,RR,8 wickets,Mohali,"May 9, 2013",T20
+DC,RCB,RCB,4 runs,Delhi,"May 10, 2013",T20
+KXIP,SRH,SRH,30 runs,Mohali,"May 11, 2013",T20
+KKR,RCB,KKR,5 wickets,Ranchi,"May 12, 2013",T20
+RR,CSK,RR,5 wickets,Jaipur,"May 12, 2013",T20
+MI,SRH,MI,7 wickets,Mumbai,"May 13, 2013",T20
+CSK,DC,CSK,33 runs,Chennai,"May 14, 2013",T20
+RCB,KXIP,KXIP,7 wickets,Bengaluru,"May 14, 2013",T20
+MI,RR,MI,14 runs,Mumbai,"May 15, 2013",T20
+KXIP,DC,KXIP,7 runs,Dharamsala,"May 16, 2013",T20
+SRH,RR,SRH,23 runs,Hyderabad (Deccan),"May 17, 2013",T20
+KXIP,MI,KXIP,50 runs,Dharamsala,"May 18, 2013",T20
+RCB,CSK,RCB,24 runs,Bengaluru,"May 18, 2013",T20
+SRH,KKR,SRH,5 wickets,Hyderabad (Deccan),"May 19, 2013",T20
+CSK,MI,CSK,48 runs,Delhi,"May 21, 2013",T20
+RR,SRH,RR,4 wickets,Delhi,"May 22, 2013",T20
+MI,RR,MI,4 wickets,Kolkata,"May 24, 2013",T20
+CSK,MI,MI,23 runs,Kolkata,"May 26, 2013",
+MI,KKR,KKR,41 runs,Abu Dhabi,"Apr 16, 2014",T20
+DC,RCB,RCB,8 wickets,Sharjah,"Apr 17, 2014",T20
+CSK,KXIP,KXIP,6 wickets,Abu Dhabi,"Apr 18, 2014",T20
+SRH,RR,RR,4 wickets,Abu Dhabi,"Apr 18, 2014",T20
+KKR,DC,DC,4 wickets,Dubai (DSC),"Apr 19, 2014",T20
+RCB,MI,RCB,7 wickets,Dubai (DSC),"Apr 19, 2014",T20
+RR,KXIP,KXIP,7 wickets,Sharjah,"Apr 20, 2014",T20
+CSK,DC,CSK,93 runs,Abu Dhabi,"Apr 21, 2014",T20
+KXIP,SRH,KXIP,72 runs,Sharjah,"Apr 22, 2014",T20
+RR,CSK,CSK,7 runs,Dubai (DSC),"Apr 23, 2014",T20
+RCB,KKR,KKR,2 runs,Sharjah,"Apr 24, 2014",T20
+CSK,MI,CSK,7 wickets,Dubai (DSC),"Apr 25, 2014",T20
+SRH,DC,SRH,4 runs,Dubai (DSC),"Apr 25, 2014",T20
+KKR,KXIP,KXIP,23 runs,Abu Dhabi,"Apr 26, 2014",T20
+RR,RCB,RR,6 wickets,Abu Dhabi,"Apr 26, 2014",T20
+SRH,CSK,CSK,5 wickets,Sharjah,"Apr 27, 2014",T20
+DC,MI,DC,6 wickets,Sharjah,"Apr 27, 2014",T20
+KXIP,RCB,KXIP,5 wickets,Dubai (DSC),"Apr 28, 2014",T20
+MI,SRH,SRH,15 runs,Dubai (DSC),"Apr 30, 2014",T20
+CSK,KKR,CSK,34 runs,Ranchi,"May 2, 2014",T20
+MI,KXIP,MI,5 wickets,Mumbai,"May 3, 2014",T20
+DC,RR,RR,7 wickets,Delhi,"May 3, 2014",T20
+RCB,SRH,RCB,4 wickets,Bengaluru,"May 4, 2014",T20
+DC,CSK,CSK,8 wickets,Delhi,"May 5, 2014",T20
+RR,KKR,RR,10 runs,Ahmedabad,"May 5, 2014",T20
+MI,RCB,MI,19 runs,Mumbai,"May 6, 2014",T20
+DC,KKR,KKR,8 wickets,Delhi,"May 7, 2014",T20
+KXIP,CSK,KXIP,44 runs,Cuttack,"May 7, 2014",T20
+RR,SRH,SRH,32 runs,Ahmedabad,"May 8, 2014",T20
+RCB,KXIP,KXIP,32 runs,Bengaluru,"May 9, 2014",T20
+MI,CSK,CSK,4 wickets,Mumbai,"May 10, 2014",T20
+DC,SRH,SRH,8 wickets,Delhi,"May 10, 2014",T20
+KXIP,KKR,KKR,9 wickets,Cuttack,"May 11, 2014",T20
+RCB,RR,RR,5 wickets,Bengaluru,"May 11, 2014",T20
+SRH,MI,MI,7 wickets,Hyderabad (Deccan),"May 12, 2014",T20
+CSK,RR,CSK,5 wickets,Ranchi,"May 13, 2014",T20
+RCB,DC,RCB,16 runs,Bengaluru,"May 13, 2014",T20
+KKR,MI,KKR,6 wickets,Cuttack,"May 14, 2014",T20
+SRH,KXIP,KXIP,6 wickets,Hyderabad (Deccan),"May 14, 2014",T20
+RR,DC,RR,62 runs,Ahmedabad,"May 15, 2014",T20
+SRH,KKR,KKR,7 wickets,Hyderabad (Deccan),"May 18, 2014",T20
+CSK,RCB,RCB,5 wickets,Ranchi,"May 18, 2014",T20
+DC,KXIP,KXIP,4 wickets,Delhi,"May 19, 2014",T20
+RR,MI,MI,25 runs,Ahmedabad,"May 19, 2014",T20
+KKR,CSK,KKR,8 wickets,Kolkata,"May 20, 2014",T20
+SRH,RCB,SRH,7 wickets,Hyderabad (Deccan),"May 20, 2014",T20
+KXIP,MI,MI,7 wickets,Mohali,"May 21, 2014",T20
+KKR,RCB,KKR,30 runs,Kolkata,"May 22, 2014",T20
+CSK,SRH,SRH,6 wickets,Ranchi,"May 22, 2014",T20
+KXIP,RR,KXIP,16 runs,Mohali,"May 23, 2014",T20
+MI,DC,MI,15 runs,Mumbai,"May 23, 2014",T20
+RCB,CSK,CSK,8 wickets,Bengaluru,"May 24, 2014",T20
+KKR,SRH,KKR,4 wickets,Kolkata,"May 24, 2014",T20
+KXIP,DC,KXIP,7 wickets,Mohali,"May 25, 2014",T20
+MI,RR,MI,5 wickets,Mumbai,"May 25, 2014",T20
+KXIP,KKR,KKR,28 runs,Kolkata,"May 27, 2014",T20
+CSK,MI,CSK,7 wickets,Mumbai (BS),"May 28, 2014",T20
+CSK,KXIP,KXIP,24 runs,Mumbai,"May 30, 2014",T20
+KKR,KXIP,KKR,3 wickets,Bengaluru,"Jun 1, 2014",T20
+KKR,MI,KKR,7 wickets,Kolkata,"Apr 8, 2015",T20
+CSK,DC,CSK,1 run,Chennai,"Apr 9, 2015",T20
+KXIP,RR,RR,26 runs,Pune,"Apr 10, 2015",T20
+CSK,SRH,CSK,45 runs,Chennai,"Apr 11, 2015",T20
+KKR,RCB,RCB,3 wickets,Kolkata,"Apr 11, 2015",T20
+MI,KXIP,KXIP,18 runs,Mumbai,"Apr 12, 2015",T20
+DC,RR,RR,3 wickets,Delhi,"Apr 12, 2015",T20
+RCB,SRH,SRH,8 wickets,Bengaluru,"Apr 13, 2015",T20
+RR,MI,RR,7 wickets,Ahmedabad,"Apr 14, 2015",T20
+KXIP,DC,DC,5 wickets,Pune,"Apr 15, 2015",T20
+SRH,RR,RR,6 wickets,Visakhapatnam,"Apr 16, 2015",T20
+MI,CSK,CSK,6 wickets,Mumbai,"Apr 17, 2015",T20
+SRH,DC,DC,4 runs,Visakhapatnam,"Apr 18, 2015",T20
+KXIP,KKR,KKR,4 wickets,Pune,"Apr 18, 2015",T20
+RCB,MI,MI,18 runs,Bengaluru,"Apr 19, 2015",T20
+RR,CSK,RR,8 wickets,Ahmedabad,"Apr 19, 2015",T20
+DC,KKR,KKR,6 wickets,Delhi,"Apr 20, 2015",T20
+RCB,CSK,CSK,27 runs,Bengaluru,"Apr 22, 2015",T20
+SRH,KKR,SRH,16 runs,Visakhapatnam,"Apr 22, 2015",T20
+DC,MI,DC,37 runs,Delhi,"Apr 23, 2015",T20
+RR,RCB,RCB,9 wickets,Ahmedabad,"Apr 24, 2015",T20
+CSK,KXIP,CSK,97 runs,Chennai,"Apr 25, 2015",T20
+MI,SRH,MI,20 runs,Mumbai,"Apr 25, 2015",T20
+DC,RCB,RCB,10 wickets,Delhi,"Apr 26, 2015",T20
+KXIP,SRH,SRH,20 runs,Mohali,"Apr 27, 2015",T20
+CSK,KKR,CSK,2 runs,Chennai,"Apr 28, 2015",T20
+RCB,RR,no result,,Bengaluru,"Apr 29, 2015",T20
+KKR,CSK,KKR,7 wickets,Kolkata,"Apr 30, 2015",T20
+DC,KXIP,DC,9 wickets,Delhi,"May 1, 2015",T20
+MI,RR,MI,8 runs,Mumbai,"May 1, 2015",T20
+RCB,KKR,RCB,7 wickets,Bengaluru,"May 2, 2015",T20
+SRH,CSK,SRH,22 runs,Hyderabad (Deccan),"May 2, 2015",T20
+KXIP,MI,MI,23 runs,Mohali,"May 3, 2015",T20
+RR,DC,RR,14 runs,Mumbai (BS),"May 3, 2015",T20
+CSK,RCB,CSK,24 runs,Chennai,"May 4, 2015",T20
+KKR,SRH,KKR,35 runs,Kolkata,"May 4, 2015",T20
+MI,DC,MI,5 wickets,Mumbai,"May 5, 2015",T20
+RCB,KXIP,RCB,138 runs,Bengaluru,"May 6, 2015",T20
+KKR,DC,KKR,13 runs,Kolkata,"May 7, 2015",T20
+RR,SRH,SRH,7 runs,Mumbai (BS),"May 7, 2015",T20
+CSK,MI,MI,6 wickets,Chennai,"May 8, 2015",T20
+KKR,KXIP,KKR,1 wicket,Kolkata,"May 9, 2015",T20
+DC,SRH,SRH,6 runs,Raipur,"May 9, 2015",T20
+CSK,RR,CSK,12 runs,Chennai,"May 10, 2015",T20
+MI,RCB,RCB,39 runs,Mumbai,"May 10, 2015",T20
+SRH,KXIP,SRH,5 runs,Hyderabad (Deccan),"May 11, 2015",T20
+DC,CSK,DC,6 wickets,Raipur,"May 12, 2015",T20
+KXIP,RCB,KXIP,22 runs,Mohali,"May 13, 2015",T20
+MI,KKR,MI,5 runs,Mumbai,"May 14, 2015",T20
+SRH,RCB,RCB,6 wickets,Hyderabad (Deccan),"May 15, 2015",T20
+KXIP,CSK,CSK,7 wickets,Mohali,"May 16, 2015",T20
+RR,KKR,RR,9 runs,Mumbai (BS),"May 16, 2015",T20
+SRH,MI,MI,9 wickets,Hyderabad (Deccan),"May 17, 2015",T20
+RCB,DC,no result,,Bengaluru,"May 17, 2015",T20
+CSK,MI,MI,25 runs,Mumbai,"May 19, 2015",T20
+RCB,RR,RCB,71 runs,Pune,"May 20, 2015",T20
+CSK,RCB,CSK,3 wickets,Ranchi,"May 22, 2015",T20
+MI,CSK,MI,41 runs,Kolkata,"May 24, 2015",T20
+KKR,DC,KKR,9 wickets,Kolkata,"Apr 10, 2016",T20
+RCB,SRH,RCB,45 runs,Bengaluru,"Apr 12, 2016",T20
+KKR,MI,MI,6 wickets,Kolkata,"Apr 13, 2016",T20
+DC,KXIP,DC,8 wickets,Delhi,"Apr 15, 2016",T20
+SRH,KKR,KKR,8 wickets,Hyderabad (Deccan),"Apr 16, 2016",T20
+RCB,DC,DC,7 wickets,Bengaluru,"Apr 17, 2016",T20
+SRH,MI,SRH,7 wickets,Hyderabad (Deccan),"Apr 18, 2016",T20
+KXIP,KKR,KKR,6 wickets,Mohali,"Apr 19, 2016",T20
+MI,RCB,MI,6 wickets,Mumbai,"Apr 20, 2016",T20
+DC,MI,DC,10 runs,Delhi,"Apr 23, 2016",T20
+SRH,KXIP,SRH,5 wickets,Hyderabad (Deccan),"Apr 23, 2016",T20
+KXIP,MI,MI,25 runs,Mohali,"Apr 25, 2016",T20
+MI,KKR,MI,6 wickets,Mumbai,"Apr 28, 2016",T20
+DC,KKR,DC,27 runs,Delhi,"Apr 30, 2016",T20
+SRH,RCB,SRH,15 runs,Hyderabad (Deccan),"Apr 30, 2016",T20
+RCB,KKR,KKR,5 wickets,Bengaluru,"May 2, 2016",T20
+KKR,KXIP,KKR,7 runs,Kolkata,"May 4, 2016",T20
+KXIP,DC,KXIP,9 runs,Mohali,"May 7, 2016",T20
+MI,SRH,SRH,85 runs,Visakhapatnam,"May 8, 2016",T20
+KXIP,RCB,RCB,1 run,Mohali,"May 9, 2016",T20
+RCB,MI,MI,6 wickets,Bengaluru,"May 11, 2016",T20
+SRH,DC,DC,7 wickets,Hyderabad (Deccan),"May 12, 2016",T20
+MI,KXIP,KXIP,7 wickets,Visakhapatnam,"May 13, 2016",T20
+MI,DC,MI,80 runs,Visakhapatnam,"May 15, 2016",T20
+KXIP,SRH,SRH,7 wickets,Mohali,"May 15, 2016",T20
+KKR,RCB,RCB,9 wickets,Kolkata,"May 16, 2016",T20
+RCB,KXIP,RCB,82 runs,Bengaluru,"May 18, 2016",T20
+DC,SRH,DC,6 wickets,Raipur,"May 20, 2016",T20
+KKR,SRH,KKR,22 runs,Kolkata,"May 22, 2016",T20
+DC,RCB,RCB,6 wickets,Raipur,"May 22, 2016",T20
+SRH,KKR,SRH,22 runs,Delhi,"May 25, 2016",T20
+RCB,SRH,SRH,8 runs,Bengaluru,"May 29, 2016",T20
+SRH,RCB,SRH,35 runs,Hyderabad (Deccan),"Apr 5, 2017",T20
+RCB,DC,RCB,15 runs,Bengaluru,"Apr 8, 2017",T20
+MI,KKR,MI,4 wickets,Mumbai,"Apr 9, 2017",T20
+KXIP,RCB,KXIP,8 wickets,Indore,"Apr 10, 2017",T20
+MI,SRH,MI,4 wickets,Mumbai,"Apr 12, 2017",T20
+KKR,KXIP,KKR,8 wickets,Kolkata,"Apr 13, 2017",T20
+RCB,MI,MI,4 wickets,Bengaluru,"Apr 14, 2017",T20
+DC,KXIP,DC,51 runs,Delhi,"Apr 15, 2017",T20
+KKR,SRH,KKR,17 runs,Kolkata,"Apr 15, 2017",T20
+DC,KKR,KKR,4 wickets,Delhi,"Apr 17, 2017",T20
+SRH,KXIP,SRH,5 runs,Hyderabad (Deccan),"Apr 17, 2017",T20
+SRH,DC,SRH,15 runs,Hyderabad (Deccan),"Apr 19, 2017",T20
+KXIP,MI,MI,8 wickets,Indore,"Apr 20, 2017",T20
+MI,DC,MI,14 runs,Mumbai,"Apr 22, 2017",T20
+KKR,RCB,KKR,82 runs,Kolkata,"Apr 23, 2017",T20
+KKR,DC,KKR,7 wickets,Kolkata,"Apr 28, 2017",T20
+KXIP,SRH,SRH,26 runs,Mohali,"Apr 28, 2017",T20
+KXIP,DC,KXIP,10 wickets,Mohali,"Apr 30, 2017",T20
+SRH,KKR,SRH,48 runs,Hyderabad (Deccan),"Apr 30, 2017",T20
+MI,RCB,MI,5 wickets,Mumbai,"May 1, 2017",T20
+DC,SRH,DC,6 wickets,Delhi,"May 2, 2017",T20
+RCB,KXIP,KXIP,19 runs,Bengaluru,"May 5, 2017",T20
+DC,MI,MI,146 runs,Delhi,"May 6, 2017",T20
+RCB,KKR,KKR,6 wickets,Bengaluru,"May 7, 2017",T20
+SRH,MI,SRH,7 wickets,Hyderabad (Deccan),"May 8, 2017",T20
+KXIP,KKR,KXIP,14 runs,Mohali,"May 9, 2017",T20
+MI,KXIP,KXIP,7 runs,Mumbai,"May 11, 2017",T20
+KKR,MI,MI,9 runs,Kolkata,"May 13, 2017",T20
+DC,RCB,RCB,10 runs,Delhi,"May 14, 2017",T20
+SRH,KKR,KKR,7 wickets,Bengaluru,"May 17, 2017",T20
+MI,KKR,MI,6 wickets,Bengaluru,"May 19, 2017",T20
+MI,CSK,CSK,1 wicket,Mumbai,"Apr 7, 2018",T20
+KKR,RCB,KKR,4 wickets,Kolkata,"Apr 8, 2018",T20
+KXIP,DC,KXIP,6 wickets,Mohali,"Apr 8, 2018",T20
+SRH,RR,SRH,9 wickets,Hyderabad (Deccan),"Apr 9, 2018",T20
+CSK,KKR,CSK,5 wickets,Chennai,"Apr 10, 2018",T20
+RR,DC,RR,10 runs,Jaipur,"Apr 11, 2018",T20
+SRH,MI,SRH,1 wicket,Hyderabad (Deccan),"Apr 12, 2018",T20
+RCB,KXIP,RCB,4 wickets,Bengaluru,"Apr 13, 2018",T20
+MI,DC,DC,7 wickets,Mumbai,"Apr 14, 2018",T20
+KKR,SRH,SRH,5 wickets,Kolkata,"Apr 14, 2018",T20
+KXIP,CSK,KXIP,4 runs,Mohali,"Apr 15, 2018",T20
+RCB,RR,RR,19 runs,Bengaluru,"Apr 15, 2018",T20
+KKR,DC,KKR,71 runs,Kolkata,"Apr 16, 2018",T20
+MI,RCB,MI,46 runs,Mumbai,"Apr 17, 2018",T20
+RR,KKR,KKR,7 wickets,Jaipur,"Apr 18, 2018",T20
+KXIP,SRH,KXIP,15 runs,Mohali,"Apr 19, 2018",T20
+CSK,RR,CSK,64 runs,Pune,"Apr 20, 2018",T20
+KKR,KXIP,KXIP,9 wickets,Kolkata,"Apr 21, 2018",T20
+RCB,DC,RCB,6 wickets,Bengaluru,"Apr 21, 2018",T20
+SRH,CSK,CSK,4 runs,Hyderabad (Deccan),"Apr 22, 2018",T20
+RR,MI,RR,3 wickets,Jaipur,"Apr 22, 2018",T20
+DC,KXIP,KXIP,4 runs,Delhi,"Apr 23, 2018",T20
+MI,SRH,SRH,31 runs,Mumbai,"Apr 24, 2018",T20
+RCB,CSK,CSK,5 wickets,Bengaluru,"Apr 25, 2018",T20
+SRH,KXIP,SRH,13 runs,Hyderabad (Deccan),"Apr 26, 2018",T20
+DC,KKR,DC,55 runs,Delhi,"Apr 27, 2018",T20
+CSK,MI,MI,8 wickets,Pune,"Apr 28, 2018",T20
+RCB,KKR,KKR,6 wickets,Bengaluru,"Apr 29, 2018",T20
+RR,SRH,SRH,11 runs,Jaipur,"Apr 29, 2018",T20
+CSK,DC,CSK,13 runs,Pune,"Apr 30, 2018",T20
+RCB,MI,RCB,14 runs,Bengaluru,"May 1, 2018",T20
+DC,RR,DC,4 runs,Delhi,"May 2, 2018",T20
+KKR,CSK,KKR,6 wickets,Kolkata,"May 3, 2018",T20
+KXIP,MI,MI,6 wickets,Indore,"May 4, 2018",T20
+CSK,RCB,CSK,6 wickets,Pune,"May 5, 2018",T20
+SRH,DC,SRH,7 wickets,Hyderabad (Deccan),"May 5, 2018",T20
+KXIP,RR,KXIP,6 wickets,Indore,"May 6, 2018",T20
+MI,KKR,MI,13 runs,Mumbai,"May 6, 2018",T20
+SRH,RCB,SRH,5 runs,Hyderabad (Deccan),"May 7, 2018",T20
+RR,KXIP,RR,15 runs,Jaipur,"May 8, 2018",T20
+KKR,MI,MI,102 runs,Kolkata,"May 9, 2018",T20
+DC,SRH,SRH,9 wickets,Delhi,"May 10, 2018",T20
+RR,CSK,RR,4 wickets,Jaipur,"May 11, 2018",T20
+KXIP,KKR,KKR,31 runs,Indore,"May 12, 2018",T20
+DC,RCB,RCB,5 wickets,Delhi,"May 12, 2018",T20
+CSK,SRH,CSK,8 wickets,Pune,"May 13, 2018",T20
+MI,RR,RR,7 wickets,Mumbai,"May 13, 2018",T20
+KXIP,RCB,RCB,10 wickets,Indore,"May 14, 2018",T20
+KKR,RR,KKR,6 wickets,Kolkata,"May 15, 2018",T20
+MI,KXIP,MI,3 runs,Mumbai,"May 16, 2018",T20
+RCB,SRH,RCB,14 runs,Bengaluru,"May 17, 2018",T20
+DC,CSK,DC,34 runs,Delhi,"May 18, 2018",T20
+SRH,KKR,KKR,5 wickets,Hyderabad (Deccan),"May 19, 2018",T20
+RR,RCB,RR,30 runs,Jaipur,"May 19, 2018",T20
+CSK,KXIP,CSK,5 wickets,Pune,"May 20, 2018",T20
+DC,MI,DC,11 runs,Delhi,"May 20, 2018",T20
+SRH,CSK,CSK,2 wickets,Mumbai,"May 22, 2018",T20
+KKR,RR,KKR,25 runs,Kolkata,"May 23, 2018",T20
+KKR,SRH,SRH,14 runs,Kolkata,"May 25, 2018",T20
+CSK,SRH,CSK,8 wickets,Mumbai,"May 27, 2018",T20
+CSK,RCB,CSK,7 wickets,Chennai,"Mar 23, 2019",T20
+MI,DC,DC,37 runs,Mumbai,"Mar 24, 2019",T20
+KKR,SRH,KKR,6 wickets,Kolkata,"Mar 24, 2019",T20
+RR,KXIP,KXIP,14 runs,Jaipur,"Mar 25, 2019",T20
+DC,CSK,CSK,6 wickets,Delhi,"Mar 26, 2019",T20
+KKR,KXIP,KKR,28 runs,Kolkata,"Mar 27, 2019",T20
+RCB,MI,MI,6 runs,Bengaluru,"Mar 28, 2019",T20
+SRH,RR,SRH,5 wickets,Hyderabad (Deccan),"Mar 29, 2019",T20
+KXIP,MI,KXIP,8 wickets,Mohali,"Mar 30, 2019",T20
+CSK,RR,CSK,8 runs,Chennai,"Mar 31, 2019",T20
+SRH,RCB,SRH,118 runs,Hyderabad (Deccan),"Mar 31, 2019",T20
+KXIP,DC,KXIP,14 runs,Mohali,"Apr 1, 2019",T20
+RR,RCB,RR,7 wickets,Jaipur,"Apr 2, 2019",T20
+MI,CSK,MI,37 runs,Mumbai,"Apr 3, 2019",T20
+DC,SRH,SRH,5 wickets,Delhi,"Apr 4, 2019",T20
+RCB,KKR,KKR,5 wickets,Bengaluru,"Apr 5, 2019",T20
+CSK,KXIP,CSK,22 runs,Chennai,"Apr 6, 2019",T20
+SRH,MI,MI,40 runs,Hyderabad (Deccan),"Apr 6, 2019",T20
+RCB,DC,DC,4 wickets,Bengaluru,"Apr 7, 2019",T20
+RR,KKR,KKR,8 wickets,Jaipur,"Apr 7, 2019",T20
+KXIP,SRH,KXIP,6 wickets,Mohali,"Apr 8, 2019",T20
+CSK,KKR,CSK,7 wickets,Chennai,"Apr 9, 2019",T20
+MI,KXIP,MI,3 wickets,Mumbai,"Apr 10, 2019",T20
+RR,CSK,CSK,4 wickets,Jaipur,"Apr 11, 2019",T20
+KKR,DC,DC,7 wickets,Kolkata,"Apr 12, 2019",T20
+KXIP,RCB,RCB,8 wickets,Mohali,"Apr 13, 2019",T20
+MI,RR,RR,4 wickets,Mumbai,"Apr 13, 2019",T20
+KKR,CSK,CSK,5 wickets,Kolkata,"Apr 14, 2019",T20
+SRH,DC,DC,39 runs,Hyderabad (Deccan),"Apr 14, 2019",T20
+MI,RCB,MI,5 wickets,Mumbai,"Apr 15, 2019",T20
+KXIP,RR,KXIP,12 runs,Mohali,"Apr 16, 2019",T20
+SRH,CSK,SRH,6 wickets,Hyderabad (Deccan),"Apr 17, 2019",T20
+DC,MI,MI,40 runs,Delhi,"Apr 18, 2019",T20
+KKR,RCB,RCB,10 runs,Kolkata,"Apr 19, 2019",T20
+DC,KXIP,DC,5 wickets,Delhi,"Apr 20, 2019",T20
+RR,MI,RR,5 wickets,Jaipur,"Apr 20, 2019",T20
+RCB,CSK,RCB,1 run,Bengaluru,"Apr 21, 2019",T20
+SRH,KKR,SRH,9 wickets,Hyderabad (Deccan),"Apr 21, 2019",T20
+RR,DC,DC,6 wickets,Jaipur,"Apr 22, 2019",T20
+CSK,SRH,CSK,6 wickets,Chennai,"Apr 23, 2019",T20
+RCB,KXIP,RCB,17 runs,Bengaluru,"Apr 24, 2019",T20
+KKR,RR,RR,3 wickets,Kolkata,"Apr 25, 2019",T20
+CSK,MI,MI,46 runs,Chennai,"Apr 26, 2019",T20
+RR,SRH,RR,7 wickets,Jaipur,"Apr 27, 2019",T20
+DC,RCB,DC,16 runs,Delhi,"Apr 28, 2019",T20
+KKR,MI,KKR,34 runs,Kolkata,"Apr 28, 2019",T20
+SRH,KXIP,SRH,45 runs,Hyderabad (Deccan),"Apr 29, 2019",T20
+RCB,RR,no result,,Bengaluru,"Apr 30, 2019",T20
+CSK,DC,CSK,80 runs,Chennai,"May 1, 2019",T20
+KXIP,KKR,KKR,7 wickets,Mohali,"May 3, 2019",T20
+DC,RR,DC,5 wickets,Delhi,"May 4, 2019",T20
+RCB,SRH,RCB,4 wickets,Bengaluru,"May 4, 2019",T20
+KXIP,CSK,KXIP,6 wickets,Mohali,"May 5, 2019",T20
+MI,KKR,MI,9 wickets,Mumbai,"May 5, 2019",T20
+MI,CSK,MI,6 wickets,Chennai,"May 7, 2019",T20
+DC,SRH,DC,2 wickets,Visakhapatnam,"May 8, 2019",T20
+CSK,DC,CSK,6 wickets,Visakhapatnam,"May 10, 2019",T20
+MI,CSK,MI,1 run,Hyderabad (Deccan),"May 12, 2019",T20
